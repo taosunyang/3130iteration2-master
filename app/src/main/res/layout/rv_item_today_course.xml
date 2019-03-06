@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Button xmlns:android="http://schemas.android.com/apk/res/android"
+
+    android:orientation="vertical" android:layout_width="120dp"
+    android:layout_height="120dp"
+    android:gravity="center_vertical"
+    android:background="@drawable/course_bg"
+    android:text="CSCI3130\nComputer Science 107\n12:00 AM 01:00 PM"
+    android:textColor="#000077"
+    android:textSize="15dp"
+    android:id="@+id/tv_course"
+    android:layout_marginTop="10dp"
+    android:layout_marginLeft="20dp"
+    android:layout_marginRight="20dp"/>
+

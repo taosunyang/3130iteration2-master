@@ -1,0 +1,117 @@
+{
+  "project_info": {
+    "project_number": "66668458577",
+    "firebase_url": "https://coursedata-bc878.firebaseio.com",
+    "project_id": "coursedata-bc878",
+    "storage_bucket": "coursedata-bc878.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66668458577:android:0b3c51a6793ad08e",
+        "android_client_info": {
+          "package_name": "com.example.a3130domo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "66668458577-ck5r7d3760agk2tegascdin53le5u4qs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjpUHVVNPfD59zb6__LTJUE6Hwvf1l0BI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66668458577:android:36213139c9fa4064",
+        "android_client_info": {
+          "package_name": "com.example.acme.coursePart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "66668458577-ck5r7d3760agk2tegascdin53le5u4qs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjpUHVVNPfD59zb6__LTJUE6Hwvf1l0BI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66668458577:android:a584ac0c588596e5",
+        "android_client_info": {
+          "package_name": "com.kcb.timeTable"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "66668458577-bmee725c2dn7a2a6qfkre7d9sn3hdu65.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kcb.timeTable",
+            "certificate_hash": "f5d80be42b2e69e99ad375a562e65d67aaac577c"
+          }
+        },
+        {
+          "client_id": "66668458577-ck5r7d3760agk2tegascdin53le5u4qs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjpUHVVNPfD59zb6__LTJUE6Hwvf1l0BI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "66668458577-ck5r7d3760agk2tegascdin53le5u4qs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

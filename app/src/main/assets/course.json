@@ -1,0 +1,123 @@
+{
+  "data":[
+    {
+      "id":0,
+      "courseName":"Math2112",
+      "section":1,
+      "hours":1,
+      "weekday":1,
+      "classRoom":"LSC 201",
+      "courseFlag":1
+    },
+    {
+      "id":1,
+      "courseName":"STAT 2060",
+      "section":3,
+      "hours":3,
+      "weekday":1,
+      "classRoom":"MAC 117",
+      "courseFlag":0
+    },
+    {
+      "id":2,
+      "courseName":"CSCI 3130",
+      "section":6,
+      "hours":3,
+      "weekday":1,
+      "classRoom":"CS 107",
+      "courseFlag":2
+    }
+  ,
+    {
+      "id":3,
+      "courseName":"CSCI 2132",
+      "section":2,
+      "hours":2,
+      "weekday":2,
+      "classRoom":"Dome",
+      "courseFlag":3
+    },
+    {
+      "id":4,
+      "courseName":"CSCI 4171",
+      "section":6,
+      "hours":2,
+      "weekday":2,
+      "classRoom":"LSC 207",
+      "courseFlag":4
+    },
+    {
+      "id":5,
+      "courseName":"MATH 1000",
+      "section":1,
+      "hours":2,
+      "weekday":3,
+      "classRoom":"Chem 110",
+      "courseFlag":5
+    },
+    {
+      "id":6,
+      "courseName":"MATH 2213",
+      "section":5,
+      "hours":2,
+      "weekday":3,
+      "classRoom":"CS 221",
+      "courseFlag":6
+    },
+    {
+      "id":7,
+      "courseName":"CSCI 2141",
+      "section":1,
+      "hours":3,
+      "weekday":4,
+      "classRoom":"CS 107",
+      "courseFlag":7
+    },
+    {
+      "id":8,
+      "courseName":"CSCI 2100",
+      "section":5,
+      "hours":2,
+      "weekday":4,
+      "classRoom":"Killiam 111",
+      "courseFlag":8
+    },
+    {
+      "id":9,
+      "courseName":"CSCI 2170",
+      "section":9,
+      "hours":2,
+      "weekday":4,
+      "classRoom":"LSC 128",
+      "courseFlag":9
+    },
+    {
+      "id":10,
+      "courseName":"BIO 1127",
+      "section":1,
+      "hours":2,
+      "weekday":5,
+      "classRoom":"LSC 106",
+      "courseFlag":2
+    },
+    {
+      "id":11,
+      "courseName":"ENGI 1180",
+      "section":3,
+      "hours":2,
+      "weekday":5,
+      "classRoom":"Dunn 117",
+      "courseFlag":4
+    }
+  ,
+    {
+      "id":12,
+      "courseName":"CSCI 3171",
+      "section":6,
+      "hours":2,
+      "weekday":5,
+      "classRoom":"MCCAIN",
+      "courseFlag":6
+    }
+  ]
+}

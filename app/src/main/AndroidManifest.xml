@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.kcb.timeTable">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".RegisterationActivity"></activity>
+        <activity android:name=".LoginPage">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".UserCourse"
+            android:parentActivityName=".ManageCourse" />
+        <activity android:name=".AddCourse" android:parentActivityName=".ManageCourse"></activity>
+
+
+        <activity android:name=".MainActivity">
+        </activity>
+        <activity android:name=".UserProfile">
+        </activity>
+        <activity android:name=".activitySecond">
+        </activity>
+
+        <activity android:name=".ManageCourse" android:parentActivityName=".UserProfile"></activity>
+
+        <activity android:name=".NewActivity"
+            android:parentActivityName=".activitySecond" />
+        <activity android:name=".NewActivity"
+            android:parentActivityName=".activitySecond" />
+        <activity android:name=".CourseDetail"
+            android:parentActivityName=".UserProfile" />
+
+        <activity android:name=".GradeDetail" android:parentActivityName=".GradeMain"/>
+
+        <activity android:name=".GradeMain" android:parentActivityName=".UserProfile"> </activity>
+
+    </application>
+
+</manifest>
